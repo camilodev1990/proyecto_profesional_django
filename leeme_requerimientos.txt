@@ -1,0 +1,16 @@
+
+se debe crear un entorno virtual o utilizar anaconda para tener un entorno dedicado 
+
+se debe generar un archivo .env donde se van a guardar las variables de entorno 
+para poder trabajar de manera segura
+
+SECRET_KEY=
+DEBUG=
+ALLOWED_HOSTS=
+DATABASE_NAME=
+EMAIL_HOST=
+EMAIL_PORT=
+EMAIL_USE_TLS=
+EMAIL_HOST_USER=
+EMAIL_HOST_PASSWORD=
+DJANGO_SETTINGS_MODULE=
