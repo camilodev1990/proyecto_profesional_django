@@ -2,13 +2,6 @@
 
 Plantilla de proyecto lista para trabajar, organizada de manera profesional.
 
-<<<<<<< HEAD
-
-
-
-
-=======
->>>>>>> 9c87461f8f7741e26a194c1bb8d590906cc9ecf6
 ## Estructura del Proyecto
 
 ```plaintext
@@ -79,4 +72,4 @@ proyecto_profesional_django/
     │   └── aqui_van_los_estaticos.txt
     └── templates/
         └── aqui_van_los_templates.txt
->>>>>>> 9c87461f8f7741e26a194c1bb8d590906cc9ecf6
+
