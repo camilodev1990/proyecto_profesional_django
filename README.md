@@ -2,13 +2,10 @@
 
 Plantilla de proyecto lista para trabajar, organizada de manera profesional.
 
-
-
-
-
 ## Estructura del Proyecto
 
 ```plaintext
+
 proyecto_profesional_django/
 |
 ├── .env
@@ -44,4 +41,3 @@ proyecto_profesional_django/
     │   
     └── templates/ --> aqui van los templates globales
         
-
